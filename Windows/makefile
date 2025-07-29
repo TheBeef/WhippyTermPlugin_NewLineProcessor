@@ -17,8 +17,7 @@ LIBS_DIR = ..
 # List of all .c source files.
 SOURCE = $(SRC_DIR)\NewLineProcessor.cpp \
 
-INCLUDES = src \
-	..\..\..\..\..\src
+INCLUDES = ..\src \
 
 # All .o files go to build dir.
 OBJ = $(SOURCE:%.c=$(BUILD_DIR)\\%.o)
