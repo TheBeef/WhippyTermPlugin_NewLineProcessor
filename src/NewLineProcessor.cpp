@@ -219,6 +219,6 @@ void NewLineProcessor_ProcessByte(t_DataProcessorHandleType *DataHandle,
         PG_BOOL *Consumed)
 {
     /* If it's a new line char add a char return */
-    if(*CharLen==1 && *ProcessedChar=='\n')
+    if(RawByte=='\n')
         m_NLP_DPS->DoReturn();
 }

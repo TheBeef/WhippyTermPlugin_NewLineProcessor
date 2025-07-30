@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="no" ?>
 <ExternPluginMaker>
     <LastBuildFile>/home/paul/Dropbox/Projects/WhippyTerm/ExternPlugins/DataProcessors/Other/NewLineProcessor/NewLineProcessor.wtp</LastBuildFile>
-    <LinuxFilename>/home/paul/Dropbox/Projects/WhippyTerm/ExternPlugins/DataProcessors/Other/NewLineProcessor/Linux/NewLineProcessor.so</LinuxFilename>
-    <WindowsFilename>/home/paul/Dropbox/Projects/WhippyTerm/ExternPlugins/DataProcessors/Other/NewLineProcessor/Windows/NewLineProcessor.dll</WindowsFilename>
+    <LinuxFilename>/home/paul/Dropbox/Projects/WhippyTerm/WhippyTermPlugin_NewLineProcessor/Linux/NewLineProcessor.so</LinuxFilename>
+    <WindowsFilename>/home/paul/Dropbox/Projects/WhippyTerm/WhippyTermPlugin_NewLineProcessor/Windows/NewLineProcessor.dll</WindowsFilename>
     <MacFilename></MacFilename>
     <RPI64Filename></RPI64Filename>
     <RPI32Filename></RPI32Filename>
